@@ -1,1 +1,1 @@
-[Projeto de um jogo de perguntas em inglês.]
+Projeto de um jogo de perguntas em inglês.
